@@ -1,0 +1,22 @@
+[
+  {
+    "position": "Web Developer",
+    "company": "KraneShares",
+    "description": "Maintain and create new pages across proprietary websites. Design and develop client-facing tools for financial analysis using PHP, Javascript, HTML, and CSS. Create mockups for projects in Adobe XD.",
+    "year": "2021-"
+  },
+  {
+    "position": "Web Developer",
+    "company": "Our Turn",
+    "description": "Oversaw the full website rebrand, and met deliverable deadlines within an accelerated timeframe. Translated design files into multiple new websites using HTML, CSS, Javascript, and Nationbuilder's Liquid templating. Created mockups for new landing pages, and developed them. Reported out and analyzed recruitment and audience data, and scheduled national email communications, ",
+    "year": "2021"
+  },
+  {
+    "position": "Digital Strategy Trainee",
+    "company": "Kivvit",
+    "description": "Created websites for clients using Squarespace Developer Platform, Wordpress, as well as HTML, CSS, and Javascript.",
+    "year": "2019"
+  }
+
+
+]

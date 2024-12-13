@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ETF Exploration Tool",
+    "id": 1,
+    "href": "https://kraneshares.com/explore",
+    "image": "/images/explore.png"
+  },
+  {
+    "name": "ETF Product Page",
+    "id": 2,
+    "href": "https://kraneshares.com/kweb",
+    "image": "/images/product.png"
+  },
+  {
+    "name": "Better Health Better Pay",
+    "id": 3,
+    "href": "https://bhbpcollaborative.com/",
+    "image": "/images/bhbp.png"
+  }
+]
